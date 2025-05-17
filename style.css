@@ -144,8 +144,8 @@ span {
 
 .box {
     border: 2px solid transparent;
-    width: 23%;
-    height: 400px;
+    width: auto;
+    height: auto;
     background-color: white;
     padding: 20px 0px 15px;
     margin: 10px 0;
